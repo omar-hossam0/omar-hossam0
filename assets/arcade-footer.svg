@@ -1,0 +1,18 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Arcade footer animation</title>
+  <desc id="desc">A local animated dark footer with blue, green, and amber lines.</desc>
+  <style>
+    @keyframes move { 0% { transform: translateX(-80px); } 100% { transform: translateX(80px); } }
+    @keyframes blink { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+    .move { animation: move 5s ease-in-out infinite alternate; }
+    .blink { animation: blink 1.3s ease-in-out infinite; }
+    .text { font: 800 15px "Consolas", "Courier New", monospace; letter-spacing: 2px; fill: #F59E0B; }
+  </style>
+  <rect width="1000" height="120" fill="#05080D"/>
+  <g class="move">
+    <path d="M-80 76C70 34 197 42 330 78C469 116 568 115 710 72C850 30 945 30 1080 68" stroke="#38BDF8" stroke-width="3" opacity=".75"/>
+    <path d="M-80 94C101 51 216 62 360 92C507 123 633 119 770 88C901 58 982 59 1080 84" stroke="#10B981" stroke-width="3" opacity=".55"/>
+  </g>
+  <text x="500" y="44" text-anchor="middle" class="text blink">GAME SAVED • KEEP BUILDING</text>
+  <rect x="0" y="0" width="1000" height="120" stroke="#27364A"/>
+</svg>

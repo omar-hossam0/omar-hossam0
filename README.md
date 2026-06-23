@@ -3,33 +3,34 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=omar-hossam0">
-    <img src="https://komarev.com/ghpvc/?username=omar-hossam0&style=for-the-badge&color=00e5ff" alt="Profile views" />
-  </a>
-  <a href="https://github.com/omar-hossam0?tab=followers">
-    <img src="https://img.shields.io/github/followers/omar-hossam0?style=for-the-badge&logo=github&label=Followers&color=ff2bd6" alt="GitHub followers" />
-  </a>
+  <img src="./assets/system-panel.svg" alt="Profile status panel" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-hossam-435224321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/omar-hossam-435224321/" title="LinkedIn">
+    <img src="./assets/icons/linkedin.svg" width="42" height="42" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/omar.hossam.1048554">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/omar.hossam.1048554" title="Facebook">
+    <img src="./assets/icons/facebook.svg" width="42" height="42" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/o_m_a_r_h_o_s_s_a_m/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/o_m_a_r_h_o_s_s_a_m/" title="Instagram">
+    <img src="./assets/icons/instagram.svg" width="42" height="42" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/omar-hossam0" title="GitHub">
+    <img src="./assets/icons/github.svg" width="42" height="42" alt="GitHub" />
   </a>
 </p>
 
 ## About Me
 
 ```txt
-PLAYER: Omar Hossam
-CLASS : Artificial Intelligence Student
-BUILD : Software Development | Cloud | DevOps
-STYLE : Learn by building, breaking, debugging, and shipping
+PLAYER : Omar Hossam
+CLASS  : Artificial Intelligence Student
+BUILD  : Software Development | Cloud | DevOps
+STYLE  : Learn by building, breaking, debugging, and shipping
 MISSION: Turn ideas into useful systems and keep leveling up
 ```
 
@@ -37,19 +38,52 @@ I am an Artificial Intelligence student interested in software development, clou
 
 ## Tech Arsenal
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="52" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" height="52" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="52" height="52" alt="Jenkins" title="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="52" height="52" alt="MongoDB" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="58" height="52" alt="AWS" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="52" height="52" alt="GitHub Actions" title="GitHub Actions" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,docker,jenkins,mongodb,aws,githubactions,git,github,vscode&theme=dark&perline=10" alt="Skill icons" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" /><br />
+      <strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" /><br />
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" /><br />
+      <strong>Docker</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/jenkins.svg" width="48" height="48" alt="Jenkins" /><br />
+      <strong>Jenkins</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" /><br />
+      <strong>MongoDB</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/icons/aws.svg" width="58" height="48" alt="AWS" /><br />
+      <strong>AWS</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/github-actions.svg" width="48" height="48" alt="GitHub Actions" /><br />
+      <strong>Actions</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" /><br />
+      <strong>Git</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" /><br />
+      <strong>GitHub</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/vscode.svg" width="48" height="48" alt="VS Code" /><br />
+      <strong>VS Code</strong>
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 
@@ -66,27 +100,15 @@ I am an Artificial Intelligence student interested in software development, clou
   </tr>
 </table>
 
-## GitHub Power-Ups
+## Build Log
+
+```txt
+[01] Study core AI concepts and practical software patterns
+[02] Build projects that solve real problems
+[03] Automate repeated work with scripts, CI, and containers
+[04] Ship, learn, refactor, repeat
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-hossam0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff2bd6&text_color=f7f7ff" alt="Omar Hossam GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-hossam0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=f7f7ff" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omar-hossam0&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=FF2BD6&currStreakLabel=00E5FF" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-hossam0&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
-</p>
-
-## Contribution Grid
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omar-hossam0/omar-hossam0/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution grid snake" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00e5ff,50:ff2bd6,100:ffe45e&section=footer&fontColor=ffffff" alt="Footer wave" width="100%" />
+  <img src="./assets/arcade-footer.svg" alt="Animated arcade footer" width="100%" />
 </p>

@@ -1,0 +1,39 @@
+<svg width="1000" height="178" viewBox="0 0 1000 178" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Omar Hossam system status panel</title>
+  <desc id="desc">A dark arcade style panel with local graphics and professional status labels.</desc>
+  <style>
+    @keyframes sweep { 0% { transform: translateX(-240px); opacity: 0; } 20% { opacity: .7; } 100% { transform: translateX(1020px); opacity: 0; } }
+    @keyframes pulse { 0%,100% { opacity: .4; } 50% { opacity: 1; } }
+    .label { font: 800 17px "Segoe UI", Arial, sans-serif; letter-spacing: 2px; fill: #E5EEF8; }
+    .value { font: 700 14px "Consolas", "Courier New", monospace; letter-spacing: 1.5px; fill: #9FB3C8; }
+    .sweep { animation: sweep 4.5s linear infinite; }
+    .pulse { animation: pulse 1.8s ease-in-out infinite; }
+  </style>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1000" y2="178" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset=".55" stop-color="#10B981"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="996" height="174" rx="16" fill="#0B111A" stroke="url(#border)" stroke-width="3"/>
+  <rect x="22" y="24" width="956" height="130" rx="12" fill="#111827" stroke="#27364A"/>
+  <rect class="sweep" x="0" y="24" width="180" height="130" fill="#38BDF8" opacity=".15"/>
+  <g transform="translate(62 56)">
+    <circle class="pulse" cx="0" cy="22" r="8" fill="#10B981"/>
+    <text x="24" y="16" class="label">PROFILE ONLINE</text>
+    <text x="24" y="44" class="value">README assets are local and repo-backed</text>
+  </g>
+  <g transform="translate(386 56)">
+    <circle class="pulse" cx="0" cy="22" r="8" fill="#38BDF8"/>
+    <text x="24" y="16" class="label">BUILD MODE</text>
+    <text x="24" y="44" class="value">AI + software + cloud + DevOps</text>
+  </g>
+  <g transform="translate(690 56)">
+    <circle class="pulse" cx="0" cy="22" r="8" fill="#F59E0B"/>
+    <text x="24" y="16" class="label">NEXT LEVEL</text>
+    <text x="24" y="44" class="value">projects, automation, deployment</text>
+  </g>
+  <path d="M22 130H978" stroke="#27364A"/>
+  <text x="500" y="145" text-anchor="middle" class="value" fill="#C8D7E8">90s ARCADE ENERGY • CLEAN ENGINEERING • PROFESSIONAL DELIVERY</text>
+</svg>
