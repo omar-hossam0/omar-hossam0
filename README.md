@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**omar-hossam0/omar-hossam0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 🎓 Artificial Intelligence student interested in software development, cloud, and DevOps.<br><br>💡 I enjoy learning by building projects, solving problems, and figuring out how things work behind the scenes.<br><br>🛠️ Most of my experience comes from hands-on practice, making mistakes, and learning from them.<br><br>🚀 Always looking for new challenges and opportunities to grow.
 
@@ -27,4 +21,4 @@ Here are some ideas to get you started:
 ---
 [![](https://komarev.com/ghpvc/?username=omar-hossam0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
