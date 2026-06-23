@@ -1,0 +1,67 @@
+<svg width="1000" height="190" viewBox="0 0 1000 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Yellow code hunter arcade animation</title>
+  <desc id="desc">A retro yellow code hunter catching bugs and tasks across a DevOps pipeline.</desc>
+  <style>
+    @keyframes hunt { 0% { transform: translateX(-48px); } 100% { transform: translateX(875px); } }
+    @keyframes chomp { 0%,100% { transform: scaleY(.25); } 50% { transform: scaleY(1); } }
+    @keyframes eaten { 0%,18% { opacity: 1; } 23%,100% { opacity: .18; } }
+    @keyframes gate { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+    @keyframes scroll { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -64; } }
+    .label { font: 900 14px "Consolas", "Courier New", monospace; letter-spacing: 2px; fill: #E5EEF8; }
+    .tiny { font: 800 12px "Consolas", "Courier New", monospace; letter-spacing: 1.3px; fill: #9FB3C8; }
+    .hunter { animation: hunt 7.2s linear infinite; }
+    .mouth { transform-origin: 56px 96px; animation: chomp .28s ease-in-out infinite; }
+    .track { stroke-dasharray: 12 12; animation: scroll 2.8s linear infinite; }
+    .gate { animation: gate 1.6s ease-in-out infinite; }
+    .d1 { animation: eaten 7.2s linear infinite; animation-delay: .3s; }
+    .d2 { animation: eaten 7.2s linear infinite; animation-delay: 1.3s; }
+    .d3 { animation: eaten 7.2s linear infinite; animation-delay: 2.4s; }
+    .d4 { animation: eaten 7.2s linear infinite; animation-delay: 3.5s; }
+    .d5 { animation: eaten 7.2s linear infinite; animation-delay: 4.6s; }
+  </style>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1000" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset=".55" stop-color="#10B981"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="996" height="186" rx="14" fill="#05080D" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="28" y="48" width="944" height="92" rx="12" fill="#0B111A" stroke="#27364A"/>
+  <path class="track" d="M54 94H936" stroke="#334155" stroke-width="4"/>
+  <text x="42" y="29" class="label" fill="#F59E0B">CODE HUNTER</text>
+  <text x="704" y="29" class="tiny">HUNT BUGS • CLEAN TODOs • SHIP PIPELINES</text>
+
+  <g class="d1">
+    <circle cx="166" cy="94" r="8" fill="#38BDF8"/>
+    <text x="142" y="126" class="tiny">BUG</text>
+  </g>
+  <g class="d2">
+    <circle cx="314" cy="94" r="8" fill="#38BDF8"/>
+    <text x="285" y="126" class="tiny">TODO</text>
+  </g>
+  <g class="d3">
+    <circle cx="462" cy="94" r="8" fill="#38BDF8"/>
+    <text x="416" y="126" class="tiny">MANUAL</text>
+  </g>
+  <g class="d4">
+    <circle cx="610" cy="94" r="8" fill="#38BDF8"/>
+    <text x="570" y="126" class="tiny">FAILED</text>
+  </g>
+  <g class="d5">
+    <circle cx="758" cy="94" r="8" fill="#38BDF8"/>
+    <text x="724" y="126" class="tiny">DRIFT</text>
+  </g>
+
+  <g class="hunter">
+    <circle cx="56" cy="94" r="31" fill="#FACC15"/>
+    <path class="mouth" d="M56 94L91 73V115Z" fill="#0B111A"/>
+    <circle cx="57" cy="78" r="4" fill="#111827"/>
+  </g>
+
+  <g transform="translate(852 61)">
+    <rect class="gate" width="96" height="66" rx="10" fill="#111827" stroke="#10B981" stroke-width="2"/>
+    <path d="M24 34h14l9-16 13 32 9-16h13" stroke="#10B981" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="48" y="58" text-anchor="middle" class="tiny" fill="#10B981">DEPLOY</text>
+  </g>
+</svg>

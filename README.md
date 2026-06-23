@@ -38,64 +38,21 @@ I am an Artificial Intelligence student interested in software development, clou
 
 ## Tech Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" /><br />
-      <strong>Python</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" /><br />
-      <strong>JavaScript</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" /><br />
-      <strong>Docker</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/jenkins.svg" width="48" height="48" alt="Jenkins" /><br />
-      <strong>Jenkins</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" /><br />
-      <strong>MongoDB</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="./assets/icons/aws.svg" width="58" height="48" alt="AWS" /><br />
-      <strong>AWS</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/github-actions.svg" width="48" height="48" alt="GitHub Actions" /><br />
-      <strong>Actions</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" /><br />
-      <strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" /><br />
-      <strong>GitHub</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/vscode.svg" width="48" height="48" alt="VS Code" /><br />
-      <strong>VS Code</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/skills-motion.svg" alt="Animated local official logos for Python, JavaScript, Node.js, Docker, Kubernetes, Jenkins, Bash, MongoDB, AWS, GitHub Actions, Git, and VS Code" width="100%" />
+</p>
 
 ## Current Focus
 
 <table>
   <tr>
     <td width="50%">
-      <strong>AI and Software</strong><br />
-      Building stronger foundations in problem solving, clean code, and practical AI workflows.
+      <strong>DevOps Foundations</strong><br />
+      Practicing Linux basics, Bash scripting, Git workflows, containers, and CI/CD step by step.
     </td>
     <td width="50%">
-      <strong>Cloud and DevOps</strong><br />
-      Practicing Docker, CI/CD, automation, and deployment patterns that make projects easier to ship.
+      <strong>Cloud Direction</strong><br />
+      Learning how local projects move into automated builds, Docker images, and AWS deployments.
     </td>
   </tr>
 </table>
@@ -103,12 +60,12 @@ I am an Artificial Intelligence student interested in software development, clou
 ## Build Log
 
 ```txt
-[01] Study core AI concepts and practical software patterns
-[02] Build projects that solve real problems
-[03] Automate repeated work with scripts, CI, and containers
-[04] Ship, learn, refactor, repeat
+[01] Write small scripts that remove repeated manual work
+[02] Containerize projects with Docker and understand the moving parts
+[03] Build CI/CD habits with GitHub Actions and Jenkins basics
+[04] Keep learning cloud deployment step by step, without skipping fundamentals
 ```
 
 <p align="center">
-  <img src="./assets/arcade-footer.svg" alt="Animated arcade footer" width="100%" />
+  <img src="./assets/code-hunter.svg" alt="Animated yellow code hunter catching bugs and DevOps pipeline issues" width="100%" />
 </p>
