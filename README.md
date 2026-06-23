@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/arcade-header.svg" alt="Omar Hossam - AI student, software development, cloud, and DevOps" width="100%" />
+  <img src="./assets/arcade-header.svg" alt="Omar Hossam GitHub profile header" width="100%" />
 </p>
 
 <p align="center">
@@ -26,20 +26,22 @@
 
 ## About Me
 
-```txt
-PLAYER : Omar Hossam
-CLASS  : Artificial Intelligence Student
-BUILD  : Software Development | Cloud | DevOps
-STYLE  : Learn by building, breaking, debugging, and shipping
-MISSION: Turn ideas into useful systems and keep leveling up
-```
+| Field | Status |
+| --- | --- |
+| Player | Omar Hossam |
+| Class | Artificial Intelligence Student |
+| Build | Software, Cloud, DevOps |
+| Style | Build, debug, automate |
+| Mission | Turn ideas into useful systems |
 
-I am an Artificial Intelligence student interested in software development, cloud, and DevOps. I like building projects, solving problems, and understanding how things work behind the scenes.
+I am an Artificial Intelligence student focused on software, cloud, and DevOps basics.
+
+I learn by building projects, debugging problems, and automating small workflows.
 
 ## Tech Arsenal
 
 <p align="center">
-  <img src="./assets/skills-motion.svg" alt="Animated local official logos for Python, JavaScript, Node.js, Docker, Kubernetes, Jenkins, Bash, MongoDB, AWS, GitHub Actions, Git, and VS Code" width="100%" />
+  <img src="./assets/skills-motion.svg" alt="Animated technical skills board" width="100%" />
 </p>
 
 ## Current Focus
@@ -48,24 +50,24 @@ I am an Artificial Intelligence student interested in software development, clou
   <tr>
     <td width="50%">
       <strong>DevOps Foundations</strong><br />
-      Practicing Linux basics, Bash scripting, Git workflows, containers, and CI/CD step by step.
+      Practicing Linux basics, Bash scripts, Git workflows, containers, and CI/CD.
     </td>
     <td width="50%">
       <strong>Cloud Direction</strong><br />
-      Learning how local projects move into automated builds, Docker images, and AWS deployments.
+      Learning how local projects move into builds, Docker images, and AWS deployments.
     </td>
   </tr>
 </table>
 
 ## Build Log
 
-```txt
-[01] Write small scripts that remove repeated manual work
-[02] Containerize projects with Docker and understand the moving parts
-[03] Build CI/CD habits with GitHub Actions and Jenkins basics
-[04] Keep learning cloud deployment step by step, without skipping fundamentals
-```
+| Step | Focus |
+| --- | --- |
+| 01 | Write scripts that remove repeated manual work |
+| 02 | Containerize projects with Docker |
+| 03 | Build CI/CD habits with Actions and Jenkins |
+| 04 | Learn cloud deployment step by step |
 
 <p align="center">
-  <img src="./assets/code-hunter.svg" alt="Animated yellow code hunter catching bugs and DevOps pipeline issues" width="100%" />
+  <img src="./assets/code-hunter.svg" alt="Animated yellow code hunter game" width="100%" />
 </p>

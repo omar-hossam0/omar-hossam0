@@ -30,7 +30,7 @@
   <rect x="28" y="48" width="944" height="92" rx="12" fill="#0B111A" stroke="#27364A"/>
   <path class="track" d="M54 94H936" stroke="#334155" stroke-width="4"/>
   <text x="42" y="29" class="label" fill="#F59E0B">CODE HUNTER</text>
-  <text x="704" y="29" class="tiny">HUNT BUGS • CLEAN TODOs • SHIP PIPELINES</text>
+  <text x="770" y="29" class="tiny">BUGS - TODOs - DEPLOY</text>
 
   <g class="d1">
     <circle cx="166" cy="94" r="8" fill="#38BDF8"/>

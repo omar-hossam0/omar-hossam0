@@ -22,18 +22,18 @@
   <g transform="translate(62 56)">
     <circle class="pulse" cx="0" cy="22" r="8" fill="#10B981"/>
     <text x="24" y="16" class="label">DEVOPS TRACK</text>
-    <text x="24" y="44" class="value">learning CI/CD, containers, cloud basics</text>
+    <text x="24" y="44" class="value">CI/CD, Docker, cloud basics</text>
   </g>
   <g transform="translate(386 56)">
     <circle class="pulse" cx="0" cy="22" r="8" fill="#38BDF8"/>
     <text x="24" y="16" class="label">CURRENT LEVEL</text>
-    <text x="24" y="44" class="value">student mode: build, debug, automate</text>
+    <text x="24" y="44" class="value">build, debug, automate</text>
   </g>
   <g transform="translate(690 56)">
     <circle class="pulse" cx="0" cy="22" r="8" fill="#F59E0B"/>
     <text x="24" y="16" class="label">NEXT PIPELINE</text>
-    <text x="24" y="44" class="value">Docker -> GitHub Actions -> AWS</text>
+    <text x="24" y="44" class="value">Docker to Actions to AWS</text>
   </g>
   <path d="M22 130H978" stroke="#27364A"/>
-  <text x="500" y="145" text-anchor="middle" class="value" fill="#C8D7E8">FROM LOCAL PROJECTS TO AUTOMATED BUILDS, CLEAN RELEASES, AND CLOUD DEPLOYMENTS</text>
+  <text x="500" y="145" text-anchor="middle" class="value" fill="#C8D7E8">LOCAL PROJECTS TO AUTOMATED BUILDS, CLEAN RELEASES, AND CLOUD DEPLOYMENTS</text>
 </svg>
