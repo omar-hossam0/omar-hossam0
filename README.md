@@ -286,12 +286,13 @@ Building a software engineering foundation through AI coursework, independent pr
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-hossam0&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omar-hossam0&theme=github_dark" alt="GitHub stats" width="49%" />
   <img src="https://streak-stats.demolab.com?user=omar-hossam0&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" alt="GitHub streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-hossam0&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" width="55%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar-hossam0&theme=github_dark" alt="Top languages by repository" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar-hossam0&theme=github_dark" alt="Top languages by commits" width="49%" />
 </p>
 
 ---
@@ -299,7 +300,7 @@ Building a software engineering foundation through AI coursework, independent pr
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-hossam0&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub trophies" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=omar-hossam0&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub trophies" width="100%" />
 </p>
 
 ---
