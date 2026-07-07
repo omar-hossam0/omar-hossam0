@@ -286,13 +286,13 @@ Building a software engineering foundation through AI coursework, independent pr
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omar-hossam0&theme=github_dark" alt="GitHub stats" width="49%" />
+  <img src="./assets/github-stats.svg" alt="GitHub stats" width="49%" />
   <img src="https://streak-stats.demolab.com?user=omar-hossam0&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" alt="GitHub streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar-hossam0&theme=github_dark" alt="Top languages by repository" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar-hossam0&theme=github_dark" alt="Top languages by commits" width="49%" />
+  <img src="./assets/github-languages-repos.svg" alt="Top languages by repository" width="49%" />
+  <img src="./assets/github-languages-commits.svg" alt="Top languages by commits" width="49%" />
 </p>
 
 ---
